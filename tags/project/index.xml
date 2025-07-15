@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Project on </title>
+    <link>https://prisma.groningen/tags/project/</link>
+    <description>Recent content in Project on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 </copyright>
+    <lastBuildDate>Tue, 10 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://prisma.groningen/tags/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Cell Structure Identification</title>
+      <link>https://prisma.groningen/projects/cells/</link>
+      <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://prisma.groningen/projects/cells/</guid>
+      <description>&lt;p&gt;We are migrating content to this page, stay tuned!&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://prisma.groningen/projects/cells/featuredcell.jpg" />
+    </item>
+    
+    <item>
+      <title>Filming the Next Move in Movement Disorders</title>
+      <link>https://prisma.groningen/projects/movement_disorders/</link>
+      <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://prisma.groningen/projects/movement_disorders/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;Overview 
+    &lt;div id=&#34;overview&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#overview&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;Every day, you move. Cycling, typing on a keyboard, playing an instrument &amp;ndash; all of it is controlled by a  finely-tuned process that your brain, nerves, and muscles follow in order to translate your intentions into accurate, fine movements. This multi-system process doesn&amp;rsquo;t always go perfectly, however: Maybe you have experienced shaky hands or legs after a workout, or an annoying bout of hiccups.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://prisma.groningen/projects/movement_disorders/featuredleap.webp" />
+    </item>
+    
+    <item>
+      <title>Galaxy identification through radiotelescopy</title>
+      <link>https://prisma.groningen/projects/radiotelescope/</link>
+      <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://prisma.groningen/projects/radiotelescope/</guid>
+      <description>&lt;p&gt;We are migrating content to this page, stay tuned!&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://prisma.groningen/projects/radiotelescope/featuredradiotelescope.jpg" />
+    </item>
+    
+    <item>
+      <title>Inhibition is what you also need</title>
+      <link>https://prisma.groningen/projects/inhibition/</link>
+      <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://prisma.groningen/projects/inhibition/</guid>
+      <description>&lt;p&gt;We are migrating content to this page, stay tuned!&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://prisma.groningen/projects/inhibition/featuredtransformer.png" />
+    </item>
+    
+    <item>
+      <title>Security using sensor noise identification</title>
+      <link>https://prisma.groningen/projects/security/</link>
+      <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://prisma.groningen/projects/security/</guid>
+      <description>&lt;p&gt;We are migrating content to this page, stay tuned!&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://prisma.groningen/projects/security/featuredcamera.jpg" />
+    </item>
+    
+  </channel>
+</rss>
