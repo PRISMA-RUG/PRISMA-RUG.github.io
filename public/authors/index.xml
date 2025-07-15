@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on </title>
+    <link>http://localhost:1313/authors/</link>
+    <description>Recent content in Authors on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 </copyright>
+    <lastBuildDate>Fri, 27 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Rafael</title>
+      <link>http://localhost:1313/authors/rafael/</link>
+      <pubDate>Fri, 27 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/authors/rafael/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Anusha</title>
+      <link>http://localhost:1313/authors/anusha/</link>
+      <pubDate>Tue, 24 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/authors/anusha/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>George</title>
+      <link>http://localhost:1313/authors/george/</link>
+      <pubDate>Thu, 19 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/authors/george/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Guru</title>
+      <link>http://localhost:1313/authors/guru/</link>
+      <pubDate>Thu, 19 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/authors/guru/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Peter</title>
+      <link>http://localhost:1313/authors/peter/</link>
+      <pubDate>Thu, 19 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/authors/peter/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Changmin</title>
+      <link>http://localhost:1313/authors/changmin/</link>
+      <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/authors/changmin/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Steven</title>
+      <link>http://localhost:1313/authors/steven/</link>
+      <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/authors/steven/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Amey</title>
+      <link>http://localhost:1313/authors/amey/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/authors/amey/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Sabatino</title>
+      <link>http://localhost:1313/authors/sabatino/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/authors/sabatino/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

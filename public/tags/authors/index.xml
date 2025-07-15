@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on </title>
+    <link>http://localhost:1313/tags/authors/</link>
+    <description>Recent content in Authors on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 </copyright>
+    <lastBuildDate>Fri, 27 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Rafael Martínez García Peña </title>
+      <link>http://localhost:1313/about/rafael/</link>
+      <pubDate>Fri, 27 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/about/rafael/</guid>
+      <description>&lt;p&gt;Hi all! I&amp;rsquo;m Rafael, I do computer vision :)&lt;/p&gt;
+&lt;p&gt;I specialize in data science, particularly when it comes to unstructured data like images and video. My specialty is in using machine- and deep-learning for classification. I&amp;rsquo;ve done some work in face recognition, moleculary dynamics, and medicine. Currently, I&amp;rsquo;m the PhD in charge of the Filming NEMO project (see below).&lt;/p&gt;
+&lt;p&gt;I also manage this webpage! If something breaks, &lt;strong&gt;panic!!&lt;/strong&gt; (and send me an email)&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/about/rafael/featuredrafael.png" />
+    </item>
+    
+    <item>
+      <title>George Azzopardi</title>
+      <link>http://localhost:1313/about/george/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/about/george/</guid>
+      <description>&lt;p&gt;My name is George Azzopardi, and I am an Associate Professor in Pattern Recognition, embedded in the Information Systems group of the Bernoulli Institute for Mathematics, Computer Science and Artificial Intelligence, Faculty of Science and Engineering, University of Groningen, the Netherlands.&lt;/p&gt;
+&lt;p&gt;As the academic lead of PRISMA, I guide our research team in advancing the robustness of vision models, developing innovative approaches to machine learning, and transforming complex data into actionable insights.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/about/george/featuredgeorge.png" />
+    </item>
+    
+    <item>
+      <title>Our Team</title>
+      <link>http://localhost:1313/about/us/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/about/us/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/about/us/featuredphoto.jpeg" />
+    </item>
+    
+  </channel>
+</rss>

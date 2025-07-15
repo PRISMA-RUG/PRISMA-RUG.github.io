@@ -1,0 +1,11 @@
+{
+    "name": "Rafael Martinez Garcia Pena",
+    "image" : "img/team/rafael_headshot.jpg",
+    "bio": "🇲🇽 Developing a computer-aided diagnosis system for hyperkinetic movement disorders using video analysis, in collaboration with the Movement Disorders department at UMCG. *Affiliations*: UMCG",
+    "social": [
+            { "envelope": "mailto:r.martinez.garcia.pena@rug.nl" },
+            { "github": "https://github.com/rafaelmtzgp" },
+            { "orcid": "https://orcid.org/0000-0002-8956-0316" }
+    ]
+}
+

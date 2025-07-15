@@ -1,0 +1,14 @@
+{
+    "name": "Prof. George Azzopardi",
+    "image" : "img/team/george_headshot.png",
+    "bio": "🇲🇹 Leader of PRISMA. As the academic lead of PRISMA, I guide our research team in advancing the robustness of vision models, developing innovative approaches to machine learning, and transforming complex data into actionable insights.",
+    "social": [
+        { "graduation-cap": "https://scholar.google.com/citations?user=6QnooDkAAAAJ&hl=en&oi=ao"},
+        { "researchgate": "https://www.researchgate.net/profile/George-Azzopardi"},
+        { "twitter": "https://twitter.com/azzopardi_g"},
+        { "linkedin": "http://www.linkedin.com/in/georgeazzopardi"},
+        { "github": "https://github.com/geazzo" },
+        { "orcid": "https://orcid.org/0000-0001-6552-2596" }
+    ]
+}
+
