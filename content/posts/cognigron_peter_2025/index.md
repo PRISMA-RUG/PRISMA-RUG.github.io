@@ -12,7 +12,7 @@ showAuthorsBadges: true
 ---
 
 ## Inhibition
-An important part of showing a model what not to learn
+An important part of showing a model what not to learn!
 
 Read more at 
 {{< article link="/projects/inhibition/" >}}
