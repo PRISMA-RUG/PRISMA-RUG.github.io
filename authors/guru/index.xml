@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Guru on</title><link>https://prisma.groningen/authors/guru/</link><description>Recent content in Guru on</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© 2025</copyright><lastBuildDate>Thu, 19 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://prisma.groningen/authors/guru/index.xml" rel="self" type="application/rss+xml"/><item><title>ForensifAI Startup at Identity Week</title><link>https://prisma.groningen/posts/forensifai_startup_2025/</link><pubDate>Thu, 19 Jun 2025 00:00:00 +0000</pubDate><guid>https://prisma.groningen/posts/forensifai_startup_2025/</guid><description>&lt;h2 class="relative group">ForensifAI: Ensuring security in every pixel
+&lt;div id="forensifai-ensuring-security-in-every-pixel" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#forensifai-ensuring-security-in-every-pixel" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Read more at
+&lt;section class="space-y-10 w-full">
+&lt;a class="flex flex-wrap md:flex-nowrap article " href="https://prisma.groningen/projects/security/">
+&lt;div class="w-full md:w-auto h-full thumbnail nozoom thumbnailshadow md:mr-7" style="background-image:url(/projects/security/featuredcamera_hu_f146e6cb7c60600.jpg);">&lt;/div>
+&lt;div class=" mt-3 md:mt-0">
+&lt;div class="items-center text-left text-xl font-semibold">
+&lt;div class="font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral"
+href="https://prisma.groningen/projects/security/">Security using sensor noise identification&lt;/div>
+&lt;/div>
+&lt;div class="text-sm text-neutral-500 dark:text-neutral-400">
+&lt;div class="flex flex-row flex-wrap items-center">
+&lt;time datetime="2025-06-10T00:00:00&amp;#43;00:00">June 10, 2025&lt;/time>&lt;span class="px-2 text-primary-500">&amp;middot;&lt;/span>&lt;span>9 words&lt;/span>&lt;span class="px-2 text-primary-500">&amp;middot;&lt;/span>&lt;span title="Reading time">1 min&lt;/span>
+&lt;/div>
+&lt;div class="flex flex-row flex-wrap items-center">
+&lt;div class="cursor-pointer" onclick="window.open(&amp;#34;/authors/guru/&amp;#34;,'_self');return false;">
+Guru
+&lt;/div>
+,&amp;nbsp;
+&lt;div class="cursor-pointer" onclick="window.open(&amp;#34;/authors/george/&amp;#34;,'_self');return false;">
+George
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;/a>
+&lt;/section>
+&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://prisma.groningen/posts/forensifai_startup_2025/featuredforensif.jpg"/></item><item><title>Security using sensor noise identification</title><link>https://prisma.groningen/projects/security/</link><pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate><guid>https://prisma.groningen/projects/security/</guid><description>&lt;p>We are migrating content to this page, stay tuned!&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://prisma.groningen/projects/security/featuredcamera.jpg"/></item><item><title>Our Team</title><link>https://prisma.groningen/about/us/</link><pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate><guid>https://prisma.groningen/about/us/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://prisma.groningen/about/us/featuredphoto.jpeg"/></item><item><title>Camera model identification based on forensic traces extracted from homogeneous patches</title><link>https://prisma.groningen/posts/swaroop_2022_camera/</link><pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate><guid>https://prisma.groningen/posts/swaroop_2022_camera/</guid><description>&lt;blockquote>
+&lt;h2 class="relative group">Highlights
+&lt;div id="highlights" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#highlights" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>We propose a camera model identification using ConvNets based on homogeneous patches.&lt;/li>
+&lt;li>It consists of a hierarchical (brand, model, and device) classification scheme.&lt;/li>
+&lt;li>Natural images contain sufficient homogeneous regions for forensic trace extraction.&lt;/li>
+&lt;li>We achieve 99.01% accuracy on the 18 camera models of the Dresden data set.&lt;/li>
+&lt;li>With this result, we outperform the state-of-the-art on the same data set.&lt;/li>
+&lt;/ul>&lt;/blockquote>
+&lt;h2 class="relative group">Abstract
+&lt;div id="abstract" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#abstract" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>A crucial challenge in digital image forensics is to identify the source camera model used to generate given images. This is of prime importance, especially for Law Enforcement Agencies in their investigations of Child Sexual Abuse Material found in darknets or seized storage devices.&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://prisma.groningen/posts/swaroop_2022_camera/featured2022.jpg"/></item></channel></rss>
