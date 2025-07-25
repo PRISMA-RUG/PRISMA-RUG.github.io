@@ -1,0 +1,74 @@
+<br>
+<section class="home-intro">
+  <center>
+  <p>We strive to uncover meaningful patterns from scattered data.</p>
+  {{ partial "icon.html" (dict "name" "github" "context" .) }}
+  <div class="mt-10 flex justify-center">
+  <a href="/about/">
+    <button
+      class="bg-transparent hover:text-primary-500 prose dark:prose-invert font-semibold hover:text-white py-2 px-4 border border-primary-500 hover:border-transparent rounded">
+      About Us
+    </button>
+  </a>
+
+  </div>
+  </center>
+
+  <h2 class="mt-8 text-2xl font-extrabold mb-10">Real-world Impact</h2>
+  <p> Our projects aim to apply the cutting-edge to the down-to-earth. See <b><a href="https://github.com/PRISMA-RUG">our repository</b></a>, and our projects.
+<br>
+
+<br>
+{{ "{{< article link=/projects/cells/ >}}" | markdownify }}
+<br>
+{{ "{{< article link=/projects/security/ >}}" | markdownify }}
+<br>
+{{ "{{< article link=/projects/movement_disorders/ >}}" | markdownify }}
+<br>
+
+<div class="mt-10 flex justify-center">
+  <a href="/projects/">
+    <button
+      class="bg-transparent hover:text-primary-500 prose dark:prose-invert font-semibold hover:text-white py-2 px-4 border border-primary-500 hover:border-transparent rounded">
+      {{ i18n "recent.show_more" | markdownify }}
+    </button>
+  </a>
+</div>
+
+</section>
+
+
+
+
+
+{{ $recentArticles := 5 }}
+{{ $showMoreLinkDest := "/posts/" }}
+{{ if .Site.Params.homepage.showRecent | default false }}
+  {{ if index .Site.Params.homepage "showRecentItems" }}
+    {{ $recentArticles = .Site.Params.homepage.showRecentItems }}
+  {{ end }}
+  <h2 class="mt-8 text-2xl font-extrabold mb-10">{{ i18n "shortcode.recent_articles" | emojify }}</h2>
+
+  {{ if and .Site.Params.homepage.cardView (not .Site.Params.homepage.cardViewScreenWidth) | default false }}
+    {{ partial "recent-articles/cardview.html" . }}
+  {{ else if and .Site.Params.homepage.cardView .Site.Params.homepage.cardViewScreenWidth | default false }}
+    {{ partial "recent-articles/cardview-fullwidth.html" . }}
+  {{ else }}
+    {{ partial "recent-articles/list.html" . }}
+  {{ end }}
+
+  {{ if .Site.Params.homepage.showMoreLink | default false }}
+    {{ if index .Site.Params.homepage "showRecentItems" }}
+      {{ $showMoreLinkDest = .Site.Params.homepage.showMoreLinkDest }}
+    {{ end }}
+    <div class="mt-10 flex justify-center">
+      <a href="{{ $showMoreLinkDest }}">
+        <button
+          class="bg-transparent hover:text-primary-500 prose dark:prose-invert font-semibold hover:text-white py-2 px-4 border border-primary-500 hover:border-transparent rounded">
+          {{ i18n "recent.show_more" | markdownify }}
+        </button>
+      </a>
+    </div>
+  {{ end }}
+
+{{ end }}
