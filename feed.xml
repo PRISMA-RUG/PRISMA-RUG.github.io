@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>PRISMA</title>
+    <link href="https://prisma-rug.github.io/feed.xml" rel="self" />
+    <link href="https://prisma-rug.github.io" />
+    <updated>2026-02-10T15:00:07+01:00</updated>
+    <author>
+        <name>Rafael Martínez-García-Peña</name>
+    </author>
+    <id>https://prisma-rug.github.io</id>
+
+    <entry>
+        <title>Interpretable Video Analysis for Movement Disorders</title>
+        <author>
+            <name>Rafael Martínez-García-Peña</name>
+        </author>
+        <link href="https://prisma-rug.github.io/interpretable-video-analysis-for-movement-disorders/"/>
+        <id>https://prisma-rug.github.io/interpretable-video-analysis-for-movement-disorders/</id>
+        <media:content url="https://prisma-rug.github.io/media/posts/13/0936_1402_001917_1.png" medium="image" />
+            <category term="NEMO"/>
+            <category term="Featured"/>
+
+        <updated>2026-02-10T14:48:53+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://prisma-rug.github.io/media/posts/13/0936_1402_001917_1.png" alt="" />
+                    We participated in 2025's MDS Congress! Read at Movement Disorders (Proceedings)
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://prisma-rug.github.io/media/posts/13/0936_1402_001917_1.png" class="type:primaryImage" alt="" /></p>
+                <p>We participated in 2025's MDS Congress!</p>
+<figure class="post__image post__image--full"><img loading="lazy"  src="https://prisma-rug.github.io/media/posts/13/Poster-MDS2025.png" alt="" width="960" height="540" sizes="(max-width: 48em) 100vw, 768px" srcset="https://prisma-rug.github.io/media/posts/13/responsive/Poster-MDS2025-xs.png 300w ,https://prisma-rug.github.io/media/posts/13/responsive/Poster-MDS2025-sm.png 480w ,https://prisma-rug.github.io/media/posts/13/responsive/Poster-MDS2025-md.png 768w"></figure>
+<p class="align-center msg msg--highlight  msg--success"><a href="https://www.mdsabstracts.org/abstract/interpretable-video-analysis-for-movement-disorders-a-case-study-of-essential-tremor-vs-cortical-myoclonus/">Read at Movement Disorders (Proceedings)</a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Multilayer perceptron ensembles in a truly sparse training context</title>
+        <author>
+            <name>Peter van der Wal</name>
+        </author>
+        <link href="https://prisma-rug.github.io/multilayer-perceptron-ensembles-in-a-truly-sparse-training-context/"/>
+        <id>https://prisma-rug.github.io/multilayer-perceptron-ensembles-in-a-truly-sparse-training-context/</id>
+        <media:content url="https://prisma-rug.github.io/media/posts/12/521_2025_11294_Fig1_HTML.webp" medium="image" />
+            <category term="Inhibition"/>
+            <category term="Featured"/>
+
+        <updated>2026-02-10T14:44:15+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://prisma-rug.github.io/media/posts/12/521_2025_11294_Fig1_HTML.webp" alt="" />
+                    Ensemble learning for artificial neural networks (ANNs) is an effective method to enhance predictive performance. However, ANNs are computationally and&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://prisma-rug.github.io/media/posts/12/521_2025_11294_Fig1_HTML.webp" class="type:primaryImage" alt="" /></p>
+                <p>Ensemble learning for artificial neural networks (ANNs) is an effective method to enhance predictive performance. However, ANNs are computationally and memory intensive, and naively training multiple networks can lead to excessive training times and costs. An effective tool for improving ensemble efficiency is introducing topological sparsity. Even though several implementations of efficient ensembles have been proposed, none of them can provide actual benefits in terms of computational overhead as the sparsity is simulated using binary masks. In this paper, we address this issue by introducing a Truly Sparse Ensemble without binary masks and directly incorporate native sparsity. We also propose two algorithms for initializing new subnetworks within the ensemble, leveraging this native topological sparsity to enhance subnetwork diversity. We demonstrate the performance of the resulting models at high levels of sparsity on several datasets in terms of classification accuracy, floating point operations (FLOPs), and actual running time. The proposed methods outperform all baseline dense and truly sparse models on tabular data, successfully diversify the training trajectory of the subnetworks, and increase the topological distance between subnetworks after re-initialization.</p>
+<p class="align-center msg msg--success"><a href="https://link.springer.com/article/10.1007/s00521-025-11294-3">Read at Neural Computing and Applications</a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Video-Based Models for Movement Disorders (A Review)</title>
+        <author>
+            <name>Rafael Martínez-García-Peña</name>
+        </author>
+        <link href="https://prisma-rug.github.io/video-based-models-for-movement-disorders-a-review/"/>
+        <id>https://prisma-rug.github.io/video-based-models-for-movement-disorders-a-review/</id>
+            <category term="NEMO"/>
+
+        <updated>2026-02-10T14:09:15+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Movement disorders are abnormal, involuntary movements that can heavily impact a person's quality of life. In clinical practice, diagnosis and&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div class="abstract-group  metis-abstract">
+<p id="section-1-en" class="article-section article-section__abstract" lang="en" data-lang="en"></p>
+<h2 id="d101776815" class="article-section__header section__title main abstractlang_en main">Abstract</h2>
+<div>
+<p>Movement disorders are abnormal, involuntary movements that can heavily impact a person's quality of life. In clinical practice, diagnosis and severity assessments rely mainly on visual clinical inspections (ie, on subjective expert opinion). With clinical videos commonly acquired as part of examinations, novel data-driven models have emerged that use machine learning (ML) and deep learning (DL) algorithms to capture human actions and recognize their characteristics, showing promise as new tools in clinical workflows. This review seeks to provide a comprehensive examination of video-based, data-driven models for movement disorders, including tremor, dystonia, myoclonus, chorea, tics, Parkinson's disease, and ataxia. We explore literature from 2006 to 2024 in a variety of scientific databases, with different video modalities including red-green-blue video of different frame rates, depth video, marker-based approaches, multi-perspective approaches, and multimodal video. We discover a significant trend in studies favoring pose estimation methods, with newer studies incorporating real-time methods and end-to-end DL architectures, and usability is steadily increasing and rapidly approaching expert-level performance. Likewise, we present the main limitations in the current approaches, such as limited public sources of data, lack of standardized metrics, and patient privacy. Taking inspiration from other fields, in medicine and otherwise, we propose possible future research directions including explainable artificial intelligence techniques, privacy-preserving devices and modeling techniques, and better metric guidelines.</p>
+</div>
+</div>
+<p class="msg msg--success align-center"><strong><a href="https://movementdisorders.onlinelibrary.wiley.com/doi/10.1002/mds.30327">Read More in Movement Disorders</a></strong></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Complexity into Clarity</title>
+        <author>
+            <name>Prof. George Azzopardi</name>
+        </author>
+        <link href="https://prisma-rug.github.io/complexity-into-clarity/"/>
+        <id>https://prisma-rug.github.io/complexity-into-clarity/</id>
+
+        <updated>2026-02-10T13:29:59+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    We strive to uncover meaningful patterns from scattered data. See our repository, and our projects. (Pattern Recognition and Inference: Signals →&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>We strive to uncover meaningful patterns from scattered data. See <strong><a href="https://github.com/PRISMA-RUG">our repository</a></strong>, and our projects. </p>
+<figure class="post__image"><img loading="lazy"  src="file:///C:/Users/rafae/Documents/Publii/sites/prisma/input/media/posts/3/prisma-logo.png" alt="PRISMA Logo" width="1828" height="406" sizes="(max-width: 48em) 100vw, 768px" srcset="file:///C:/Users/rafae/Documents/Publii/sites/prisma/input/media/posts/3/responsive/prisma-logo-xs.png 300w ,file:///C:/Users/rafae/Documents/Publii/sites/prisma/input/media/posts/3/responsive/prisma-logo-sm.png 480w ,file:///C:/Users/rafae/Documents/Publii/sites/prisma/input/media/posts/3/responsive/prisma-logo-md.png 768w"></figure>
+<p class="msg msg--highlight  msg--success align-center msg--info"><span style="color: #34495e;"><code><small id="typeit-2bc053111729a74bce2ff033e7cdfe90" data-typeit-id="3679712">(Pattern Recognition and Inference: Signals → Models → Applications)</small></code></span></p>
+<p>We are a multi-disciplinary, multi-national research group in Groningen focused on pushing the boundaries of computer vision. Our work includes applications in biology, medicine, forensics, and radio astronomy.</p>
+<p><span style="color: #236fa1;"><strong><span style="color: #236fa1;">PRISM</span><span style="color: #e03e2d;">A</span></strong></span> strives to uncover meaningful patterns from scattered data, ensuring our models remain robust in real-world conditions. Through interdisciplinary partnerships, we aim to create innovative tools and technologies that address significant challenges in science and industry.</p>
+<p>Our mission is to <em>transform complexity into clarity</em>, much like how a prism reveals the hidden spectrum of light. By bridging theory and practice, <strong><span style="color: #236fa1;">PRISM</span><span style="color: #e03e2d;">A</span></strong> contributes in advancing pattern recognition and applications.</p>
+<p>Our home is in the University of Groningen, within the Information Systems Group. We are connected with other local and international institutes, including University Medical Center Groningen, Stellenbosch University, University of Malta, and the University of Salerno. We work together with organizations like the Dutch Driving Authority to tackle real-world problems.</p>
+<div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="1">
+<figure class="gallery__item"><a href="https://prisma-rug.github.io/media/posts/4/gallery/dasis2.jpg" data-size="1600x1200"><img loading="lazy" src="https://prisma-rug.github.io/media/posts/4/gallery/dasis2-thumbnail.jpg" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://prisma-rug.github.io/media/posts/4/gallery/dasis1.jpg" data-size="1536x1121"><img loading="lazy" src="https://prisma-rug.github.io/media/posts/4/gallery/dasis1-thumbnail.jpg" alt="" width="720" height="525"></a></figure>
+<figure class="gallery__item"><a href="https://prisma-rug.github.io/media/posts/4/gallery/PRISMA-scaled.jpeg" data-size="2560x1920"><img loading="lazy" src="https://prisma-rug.github.io/media/posts/4/gallery/PRISMA-scaled-thumbnail.jpeg" alt="" width="720" height="540"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Congratulations to Doctor Steven!</title>
+        <author>
+            <name>Steven Ndung&#x27;u Machetho, PhD</name>
+        </author>
+        <link href="https://prisma-rug.github.io/congratulations-to-doctor-steven/"/>
+        <id>https://prisma-rug.github.io/congratulations-to-doctor-steven/</id>
+        <media:content url="https://prisma-rug.github.io/media/posts/11/Untitled.jpg" medium="image" />
+            <category term="News"/>
+
+        <updated>2025-12-04T14:35:00+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://prisma-rug.github.io/media/posts/11/Untitled.jpg" alt="" />
+                    Our colleague Steven Ndung’u Machetho succesfully defended his defense today on the classification of galaxies using radiotelescopes, in collaboration with&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://prisma-rug.github.io/media/posts/11/Untitled.jpg" class="type:primaryImage" alt="" /></p>
+                <p>Our colleague Steven Ndung’u Machetho succesfully defended his defense today on the classification of galaxies using radiotelescopes, in collaboration with the University of Stellenbosch. </p>
+<p>He now continues his trajectory at the United Nations.</p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://prisma-rug.github.io/media/posts/11/Untitled-2.jpg" alt="" width="1600" height="1200" sizes="(max-width: 48em) 100vw, 768px" srcset="https://prisma-rug.github.io/media/posts/11/responsive/Untitled-2-xs.jpg 300w ,https://prisma-rug.github.io/media/posts/11/responsive/Untitled-2-sm.jpg 480w ,https://prisma-rug.github.io/media/posts/11/responsive/Untitled-2-md.jpg 768w"></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Congratulations to Doctor Ashwath! </title>
+        <author>
+            <name>Anusha Ashwath, PhD</name>
+        </author>
+        <link href="https://prisma-rug.github.io/congratulations-to-doctor-ashwath/"/>
+        <id>https://prisma-rug.github.io/congratulations-to-doctor-ashwath/</id>
+            <category term="News"/>
+
+        <updated>2025-06-24T12:49:00+02:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Congratulations to Dr. Anusha Ashwath for a succesful defense of her thesis titled “Automatic segmentation of cellular structures in electron&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Congratulations to Dr. Anusha Ashwath for a succesful defense of her thesis titled <strong>“Automatic segmentation of cellular structures in electron microscopy images</strong>”!</p>
+<p>Her contributions have paved the way for Changmin’s PhD project, which continues Anusha’s work. She’ll continue to be involved with PRISMA in her post-doc.</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

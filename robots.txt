@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://prisma-rug.github.io/sitemap.xml
