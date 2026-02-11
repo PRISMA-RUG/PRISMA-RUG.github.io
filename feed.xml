@@ -3,7 +3,7 @@
     <title>PRISMA</title>
     <link href="https://prisma-rug.github.io/feed.xml" rel="self" />
     <link href="https://prisma-rug.github.io" />
-    <updated>2026-02-11T13:55:00+01:00</updated>
+    <updated>2026-02-11T14:18:16+01:00</updated>
     <author>
         <name>Rafael Martínez-García-Peña</name>
     </author>
@@ -107,7 +107,7 @@
         <content type="html">
             <![CDATA[
                 <p>We strive to uncover meaningful patterns from scattered data. See <strong><a href="https://github.com/PRISMA-RUG">our repository</a></strong>, and our projects. </p>
-<figure class="post__image"><img loading="lazy"  src="file:///C:/Users/rafae/Documents/Publii/sites/prisma/input/media/posts/3/prisma-logo.png" alt="PRISMA Logo" width="1828" height="406" sizes="(max-width: 48em) 100vw, 768px" srcset="file:///C:/Users/rafae/Documents/Publii/sites/prisma/input/media/posts/3/responsive/prisma-logo-xs.png 300w ,file:///C:/Users/rafae/Documents/Publii/sites/prisma/input/media/posts/3/responsive/prisma-logo-sm.png 480w ,file:///C:/Users/rafae/Documents/Publii/sites/prisma/input/media/posts/3/responsive/prisma-logo-md.png 768w"></figure>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://prisma-rug.github.io/media/posts/4/WhatsApp-Image-2025-12-04-at-22.42.05.jpeg" alt="A picture at a restaurant with the PRISMA team." width="1600" height="1200" sizes="(max-width: 48em) 100vw, 768px" srcset="https://prisma-rug.github.io/media/posts/4/responsive/WhatsApp-Image-2025-12-04-at-22.42.05-xs.jpeg 300w ,https://prisma-rug.github.io/media/posts/4/responsive/WhatsApp-Image-2025-12-04-at-22.42.05-sm.jpeg 480w ,https://prisma-rug.github.io/media/posts/4/responsive/WhatsApp-Image-2025-12-04-at-22.42.05-md.jpeg 768w"></figure>
 <p class="msg msg--highlight  msg--success align-center msg--info"><span style="color: #34495e;"><code><small id="typeit-2bc053111729a74bce2ff033e7cdfe90" data-typeit-id="3679712">(Pattern Recognition and Inference: Signals → Models → Applications)</small></code></span></p>
 <p>We are a multi-disciplinary, multi-national research group in Groningen focused on pushing the boundaries of computer vision. Our work includes applications in biology, medicine, forensics, and radio astronomy.</p>
 <p><span style="color: #236fa1;"><strong><span style="color: #236fa1;">PRISM</span><span style="color: #e03e2d;">A</span></strong></span> strives to uncover meaningful patterns from scattered data, ensuring our models remain robust in real-world conditions. Through interdisciplinary partnerships, we aim to create innovative tools and technologies that address significant challenges in science and industry.</p>
