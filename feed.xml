@@ -3,7 +3,7 @@
     <title>PRISMA</title>
     <link href="https://prisma-rug.github.io/feed.xml" rel="self" />
     <link href="https://prisma-rug.github.io" />
-    <updated>2026-02-10T15:00:07+01:00</updated>
+    <updated>2026-02-11T13:55:00+01:00</updated>
     <author>
         <name>Rafael Martínez-García-Peña</name>
     </author>
@@ -118,6 +118,33 @@
 <figure class="gallery__item"><a href="https://prisma-rug.github.io/media/posts/4/gallery/dasis1.jpg" data-size="1536x1121"><img loading="lazy" src="https://prisma-rug.github.io/media/posts/4/gallery/dasis1-thumbnail.jpg" alt="" width="720" height="525"></a></figure>
 <figure class="gallery__item"><a href="https://prisma-rug.github.io/media/posts/4/gallery/PRISMA-scaled.jpeg" data-size="2560x1920"><img loading="lazy" src="https://prisma-rug.github.io/media/posts/4/gallery/PRISMA-scaled-thumbnail.jpeg" alt="" width="720" height="540"></a></figure>
 </div></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>UG in Focus</title>
+        <author>
+            <name>Rafael Martínez-García-Peña</name>
+        </author>
+        <link href="https://prisma-rug.github.io/ug-in-focus/"/>
+        <id>https://prisma-rug.github.io/ug-in-focus/</id>
+        <media:content url="https://prisma-rug.github.io/media/posts/17/0112-wetenschap-werkt-azzopardi.jpg" medium="image" />
+            <category term="News"/>
+
+        <updated>2026-01-12T13:53:00+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://prisma-rug.github.io/media/posts/17/0112-wetenschap-werkt-azzopardi.jpg" alt="Prof. George, Dr. Guru, and two images depicting a camera and a camera lens." />
+                    We were featured in the RUG's Science for Society this month! Our project together with the Dutch Road Authority is&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://prisma-rug.github.io/media/posts/17/0112-wetenschap-werkt-azzopardi.jpg" class="type:primaryImage" alt="Prof. George, Dr. Guru, and two images depicting a camera and a camera lens." /></p>
+                <p>We were featured in the RUG's Science for Society this month! Our project together with the Dutch Road Authority is about facing the modern challenge of maintaining security with the threat of deep fakes on the loom. </p>
+<p>Prof. George Azzopardi and Dr. Guru Swaroop are working together to recognize if an image can be linked to a trusted device using sensor noise identification. <a href="https://prisma-rug.github.io/security-using-sensor-noise-identification/">Read more about the project here</a>!</p>
+<p>If you'd like to read what the UG in Focus article mentioned, check out their post below.</p>
+<p class="align-center msg msg--success"><a href="https://www.rug.nl/about-ug/latest-news/news/archief2026/nieuwsberichten/0112-science-for-society-face-morphing">Read at rug.nl</a></p>
             ]]>
         </content>
     </entry>

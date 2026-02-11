@@ -74,6 +74,22 @@
             "date_modified": "2026-02-10T14:02:29+01:00"
         },
         {
+            "id": "https://prisma-rug.github.io/ug-in-focus/",
+            "url": "https://prisma-rug.github.io/ug-in-focus/",
+            "title": "UG in Focus",
+            "summary": "We were featured in the RUG's Science for Society this month! Our project together with the Dutch Road Authority is&hellip;",
+            "content_html": "<p>We were featured in the RUG's Science for Society this month! Our project together with the Dutch Road Authority is about facing the modern challenge of maintaining security with the threat of deep fakes on the loom. </p>\n<p>Prof. George Azzopardi and Dr. Guru Swaroop are working together to recognize if an image can be linked to a trusted device using sensor noise identification. <a href=\"https://prisma-rug.github.io/security-using-sensor-noise-identification/\">Read more about the project here</a>!</p>\n<p>If you'd like to read what the UG in Focus article mentioned, check out their post below.</p>\n<p class=\"align-center msg msg--success\"><a href=\"https://www.rug.nl/about-ug/latest-news/news/archief2026/nieuwsberichten/0112-science-for-society-face-morphing\">Read at rug.nl</a></p>",
+            "image": "https://prisma-rug.github.io/media/posts/17/0112-wetenschap-werkt-azzopardi.jpg",
+            "author": {
+                "name": "Rafael Martínez-García-Peña"
+            },
+            "tags": [
+                   "News"
+            ],
+            "date_published": "2026-01-12T13:53:00+01:00",
+            "date_modified": "2026-02-11T13:55:00+01:00"
+        },
+        {
             "id": "https://prisma-rug.github.io/congratulations-to-doctor-steven/",
             "url": "https://prisma-rug.github.io/congratulations-to-doctor-steven/",
             "title": "Congratulations to Doctor Steven!",
